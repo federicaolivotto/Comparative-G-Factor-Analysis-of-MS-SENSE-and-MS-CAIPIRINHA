@@ -113,7 +113,7 @@ It depends on:
 - Edge cases exist where CAIPIRINHA performance degrades
 
 ## File
-- `G_factor_analysis_MS_SENSE_vs_CAIPIRINHA.pdf` → Full project report
+- `FINAL_REPORT_MRI.pdf` → Full project report
 
 ## Author
 Federica Maria Olivotto  
