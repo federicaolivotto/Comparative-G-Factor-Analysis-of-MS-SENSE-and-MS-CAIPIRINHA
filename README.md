@@ -79,6 +79,10 @@ It depends on:
   - Much better reconstruction quality
   - Horizontal shift performs better than vertical shift
 
+## CAIPIRINHA Results Visualization
+
+![Slice reconstruction with CAIPIRINHA (exponential coil sensitivities)](CAIPIRINHA_MRI.png)
+
 ### Effect of Slice Modulation
 
 #### Worst Case (slice_modulation → 1)
